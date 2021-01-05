@@ -1,5 +1,5 @@
 # Music-Library-Project
-Software Design Project, authored as a group project
+Software Design Project
 
 1. A library is made up of songs, playlists, and albums.
 2. Each song corresponds to a specific file path. This path determines the identity of the song and the audio format used and can never change for a given song. Your solution needs to take into account that a file path and/or audio format (as determined through the file extension) may not exist. 
